@@ -1,5 +1,5 @@
 ---
-title: putting-jmp-in-shape-for-submission.md
+title: Putting JMP in Shape for Submission
 
 ---
 
@@ -31,6 +31,7 @@ Having done that, you'll be ready for the actual lit review.
 
 When you've done this, you should do a deeper dive:
 - [ ] Google something like "Best AI tools for scientific literature search"
+    - [ ] [This](https://effortlessacademic.com/a-complete-guide-to-using-ai-for-academic-writing/) looks like a promising starting point
 - [ ] Find one that will let you upload a bibliography
 - [ ] Chat with the AI to identify ones you should read 
 - [ ] Read them
